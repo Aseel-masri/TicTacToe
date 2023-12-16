@@ -33,9 +33,4 @@ This repository contains a simple yet engaging TicTacToe game built using HTML, 
 4. Enjoy playing TicTacToe!
 
 ## Video Demo
-
-<video width="640" height="480" controls>
-  <source src="https://github.com/Aseel-masri/TicTacToe/demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-## End Video Demo
+https://github.com/Aseel-masri/TicTacToe/assets/104279355/df86eece-0cbc-4b8a-ab7f-ca985ca0f6fb
