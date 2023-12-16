@@ -32,4 +32,10 @@ This repository contains a simple yet engaging TicTacToe game built using HTML, 
 3. Choose the game mode (two-player or single-player) and difficulty level.
 4. Enjoy playing TicTacToe!
 
+## Video Demo
 
+<video width="640" height="480" controls>
+  <source src="https://github.com/Aseel-masri/TicTacToe/demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+## End Video Demo
